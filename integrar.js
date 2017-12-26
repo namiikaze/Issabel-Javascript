@@ -23,7 +23,7 @@ function verificarLigacao() {
 			document.body.appendChild(x);
 	
 
-			//window.open("http://cdccred.panoramaemprestimos.com.br/html.do?action=interacao&ramal="+String(ramal)+"&chave="+String(cpf)+"&telefone=&buscar=1");
+			//window.open("http://subDominio.panoramaemprestimos.com.br/html.do?action=interacao&ramal="+String(ramal)+"&chave="+String(cpf)+"&telefone=&buscar=1");
 			console.log("CPF:" +String(cpf) + " Ramal:" +String(ramal));
 			}
 		}
